@@ -1,7 +1,5 @@
 # Infographic: Ứng dụng & Lợi ích của Công nghệ số trong Học tập
 
-![Infographic Lợi ích công nghệ số](./infographic.png)
-
 ---
 
 ### Trích dẫn nguồn & Bản quyền nội dung
